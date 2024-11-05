@@ -21,12 +21,12 @@ This project provides functionality for validating XML files against an XSD sche
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/coleeastman/xml-validation-and-conversion.git
-2. **Navigate to the Project Directory
+2. **Navigate to the Project Directory**
    Change into the project directory:
     ```bash
     cd xml-validation-and-conversion
 
-3. **Build the Application
+3. **Build the Application**
    ```bash
     dotnet build
    
