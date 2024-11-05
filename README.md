@@ -30,7 +30,7 @@ This project provides functionality for validating XML files against an XSD sche
    ```bash
     dotnet build
    
-4. **Run the Application
+4. **Run the Application**
    Run the application:
    ```bash
    dotnet run
