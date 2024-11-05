@@ -1,0 +1,67 @@
+<!-- Error 1: Changed root element name from Hotels to Hotel -->
+<Hotel>
+  <Hotel Rating="4.5">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.2">
+    <!-- Error 2: Missing required attribute "NearstAirport" on Address -->
+    <Name>Marriott Los Angeles</Name>
+    <Phone>310-555-1212</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90001</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hilton New York</Name>
+    <!-- Error 3: Missing a Phone element -->
+    <Address NearstAirport="JFK">
+      <Number>45</Number>
+      <Street>6th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10001</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.8">
+    <Name>Hyatt Chicago</Name>
+    <Phone>312-555-3434</Phone>
+    <!-- Error 4: Missing closing tag for Address -->
+    <Address NearstAirport="ORD">
+      <Number>200</Number>
+      <Street>N. Michigan Ave</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    <!-- Missing closing tag for Address here -->
+  </Hotel>
+  
+  <Hotel Rating="4.0">
+    <!-- Error 5: Two Name elements provided -->
+    <Name>Grand Hyatt San Francisco</Name>
+    <Name>Duplicate Name Entry</Name>
+    <Phone>415-555-7890</Phone>
+    <Address NearstAirport="SFO">
+      <Number>345</Number>
+      <Street>Market St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+  </Hotel>
+</Hotel>

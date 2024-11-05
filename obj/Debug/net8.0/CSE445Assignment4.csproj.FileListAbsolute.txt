@@ -1,0 +1,17 @@
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.csproj.AssemblyReference.cache
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.AssemblyInfoInputs.cache
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.AssemblyInfo.cs
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.csproj.CoreCompileInputs.cache
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/CSE445Assignment4
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/CSE445Assignment4.deps.json
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/CSE445Assignment4.runtimeconfig.json
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/CSE445Assignment4.dll
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/CSE445Assignment4.pdb
+/Users/coleeastman/CSE445Assignment4/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445As.4E2BADDE.Up2Date
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.dll
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/refint/CSE445Assignment4.dll
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.pdb
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/CSE445Assignment4.genruntimeconfig.cache
+/Users/coleeastman/CSE445Assignment4/obj/Debug/net8.0/ref/CSE445Assignment4.dll

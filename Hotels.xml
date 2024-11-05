@@ -1,0 +1,133 @@
+<Hotels>
+  <!-- 1 -->
+  <Hotel Rating="4.5">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 2 -->
+  <Hotel Rating="4.2">
+    <Name>Marriott Los Angeles</Name>
+    <Phone>310-555-1212</Phone>
+    <Address NearstAirport="LAX">
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90001</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 3 -->
+  <Hotel>
+    <Name>Hilton New York</Name>
+    <Phone>212-555-0199</Phone>
+    <Phone>212-555-0198</Phone>
+    <Address NearstAirport="JFK">
+      <Number>45</Number>
+      <Street>6th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10001</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 4 -->
+  <Hotel Rating="3.8">
+    <Name>Hyatt Chicago</Name>
+    <Phone>312-555-3434</Phone>
+    <Address NearstAirport="ORD">
+      <Number>200</Number>
+      <Street>N. Michigan Ave</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 5 -->
+  <Hotel Rating="4.0">
+    <Name>Grand Hyatt San Francisco</Name>
+    <Phone>415-555-7890</Phone>
+    <Address NearstAirport="SFO">
+      <Number>345</Number>
+      <Street>Market St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 6 -->
+  <Hotel>
+    <Name>Ritz-Carlton Atlanta</Name>
+    <Phone>404-555-0145</Phone>
+    <Address NearstAirport="ATL">
+      <Number>181</Number>
+      <Street>Peachtree St</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 7 -->
+  <Hotel Rating="3.7">
+    <Name>Four Seasons Houston</Name>
+    <Phone>713-555-7689</Phone>
+    <Address NearstAirport="IAH">
+      <Number>1300</Number>
+      <Street>Lamar St</Street>
+      <City>Houston</City>
+      <State>TX</State>
+      <Zip>77010</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 8 -->
+  <Hotel>
+    <Name>Fairmont Olympic Seattle</Name>
+    <Phone>206-555-9800</Phone>
+    <Address NearstAirport="SEA">
+      <Number>411</Number>
+      <Street>University St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 9 -->
+  <Hotel Rating="4.3">
+    <Name>Boston Harbor Hotel</Name>
+    <Phone>617-555-1000</Phone>
+    <Address NearstAirport="BOS">
+      <Number>70</Number>
+      <Street>Rowes Wharf</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02110</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- 10 -->
+  <Hotel Rating="4.1">
+    <Name>W South Beach</Name>
+    <Phone>305-555-0222</Phone>
+    <Address NearstAirport="MIA">
+      <Number>2201</Number>
+      <Street>Collins Ave</Street>
+      <City>Miami Beach</City>
+      <State>FL</State>
+      <Zip>33139</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
